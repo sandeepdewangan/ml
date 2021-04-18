@@ -12,3 +12,6 @@ https://github.com/sandeepdewangan/ml/blob/main/ml_basics/visualization.md
 
 ## ANN Basic with Keras
 https://github.com/sandeepdewangan/ml/blob/main/ml_basics/1_ANN_Basic/1_ANN_basic.md
+
+## Keras Basic
+https://github.com/sandeepdewangan/ml/blob/main/ml_basics/keras_basic/2_Keras.md
