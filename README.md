@@ -5,7 +5,8 @@
 https://github.com/sandeepdewangan/ml/blob/main/ml_basics/Numpy.md
 
 ## Pandas Basics
-https://github.com/sandeepdewangan/ml/blob/main/ml_basics/Pandas.md
+1. [Pandas Udemy](https://github.com/sandeepdewangan/ml/tree/main/pandas)
+2. https://github.com/sandeepdewangan/ml/blob/main/ml_basics/Pandas.md
 
 ## Visualization Basics
 https://github.com/sandeepdewangan/ml/blob/main/ml_basics/visualization.md
